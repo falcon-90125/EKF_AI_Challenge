@@ -1,0 +1,5 @@
+__pycache__/
+env/
+app_exchenge/digits/
+app_exchenge/processed_files/
+*.h5
