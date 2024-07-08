@@ -1,5 +1,9 @@
 __pycache__/
 env/
-app_exchenge/digits/
-app_exchenge/processed_files/
+app_exchenge/digits/*.png
+app_exchenge/processed_files/*.png
+app_exchenge/processed_files/*.pdf
+dataset/
+docs/
+
 *.h5
